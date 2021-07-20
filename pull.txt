@@ -1,0 +1,1 @@
+Bu bir GIT çalışma dosyasıdır.
